@@ -3,6 +3,8 @@
   "displayName": "RRR (Requirements, Refactoring, Robustness)",
   "description": "R.R.R coder theme",
   "version": "0.0.1",
+  "publisher": "Dheeraj Kumar Rao",
+  "icon": "profile-square-150px.jpg",
   "engines": {
     "vscode": "^1.77.0"
   },

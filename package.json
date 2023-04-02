@@ -1,0 +1,21 @@
+{
+  "name": "rrr--requirements--refactoring--robustness-",
+  "displayName": "RRR (Requirements, Refactoring, Robustness)",
+  "description": "R.R.R coder theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "R.R.R coder theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/R.R.R coder theme-color-theme.json"
+      }
+    ]
+  }
+}

@@ -9,6 +9,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/rao123dk/RRR-coder-theme.git"
+  },
   "contributes": {
     "themes": [
       {

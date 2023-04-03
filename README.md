@@ -1,16 +1,45 @@
-# rrr--requirements--refactoring--robustness- README
+<div align="center">
 
-## Working with Markdown
+# RRR coder theme
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+<br>
+<br>
 
-## For more information
+> _A VS code theme for software geeks._
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+<br>
 
-**Enjoy!**
+### Support Me
+
+</div>
+
+<br>
+
+![JellyFish](https://img.shields.io/badge/RRR%20coder%20theme-theme-blue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/DheerajKumarRao.rrr--coder--theme?logo=RRR%20coder%20theme)
+
+
+
+<br>
+</div>
+
+# Installation
+
+1. Open _Extensions_ from the Activity Bar in VS Code. `View → Extensions`
+2. Search for `RRR coder theme`, choose "RRR (Requirements, Refactoring, Robustness)" by _Dheeraj Kumar Rao_
+3. Click _Install_
+4. Navigate to File > Preferences > Color Theme >`RRR`
+
+<br>
+
+## Author
+
+[Dheeraj Kumar Rao](https://github.com/rao123dk)
+
+<br>
+
+# License
+
+[MIT](LICENSE)

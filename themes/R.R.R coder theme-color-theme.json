@@ -23,8 +23,10 @@
 		"activityBar.foreground": "#ec3eec",
 		"activityBarBadge.background": "#d115c1",
 		"activityBarBadge.foreground": "#991e3d",
+
 		"window.activeBorder" :"#00ff87",
 		"window.inactiveBorder" :"#e707fa",
+
 		"textBlockQuote.background" :"#ff0000",
 		"textBlockQuote.border" : "#ff0000",
 		"textLink.activeForeground": "#11c76c",
@@ -106,10 +108,14 @@
 
 
 		"gitDecoration.conflictingResourceForeground": "#ff00f2",
-    "gitDecoration.deletedResourceForeground": "#000000",
-    "gitDecoration.ignoredResourceForeground": "#5966cc",
-    "gitDecoration.modifiedResourceForeground": "#6a77d8",
-    "gitDecoration.untrackedResourceForeground": "#8c97ea",
+		"gitDecoration.deletedResourceForeground": "#000000",
+		"gitDecoration.ignoredResourceForeground": "#5966cc",
+		"gitDecoration.modifiedResourceForeground": "#6a77d8",
+		"gitDecoration.untrackedResourceForeground": "#8c97ea",
+
+		"breadcrumb.foreground":"#6e6e6e",
+		"breadcrumb.activeSelectionForeground":"#ff0080",
+		"breadcrumbPicker.background":"#ff00f2",
 
 	},	
 	"tokenColors": [

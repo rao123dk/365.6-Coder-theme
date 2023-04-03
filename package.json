@@ -1,16 +1,28 @@
 {
-  "name": "rrr--requirements--refactoring--robustness-",
+  "name": "rrr--coder--theme",
   "displayName": "RRR (Requirements, Refactoring, Robustness)",
-  "description": "R.R.R coder theme",
-  "version": "0.0.1",
-  "publisher": "Dheeraj Kumar Rao",
-  "icon": "profile-square-150px.jpg",
+  "description": "R.R.R coder theme.",
+  "version": "0.0.2",
+  "publisher": "DheerajKumarRao",
+  "icon": "assets/rrr-coder-theme.png",
   "engines": {
-    "vscode": "^1.77.0"
+    "vscode": "^1.52.0"
+  },
+  "author": {
+    "name": "Dheeraj Kumar Rao"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "coder theme",
+    "vs code theme",
+    "RRR theme",
+    "RRR vs code theme",
+    "dheeraj kumar rao theme"
+],
   "repository": {
     "type" : "git",
     "url" : "https://github.com/rao123dk/RRR-coder-theme.git"
@@ -23,5 +35,10 @@
         "path": "./themes/R.R.R coder theme-color-theme.json"
       }
     ]
+  },
+  "homepage": "https://github.com/rao123dk/RRR-coder-theme/blob/main/README.md",
+  "bugs": {
+    "url": "https://github.com/rao123dk/RRR-coder-theme/issues",
+    "email": "javascriptkingdom@gmail.com"
   }
 }

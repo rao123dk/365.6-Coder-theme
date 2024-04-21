@@ -2,7 +2,7 @@
   "name": "365-6--coder--theme",
   "displayName": "365.6 Coder theme",
   "description": "365.6 Coder theme",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "publisher": "dheeraj-kumar-rao",
   "icon": "assets/3656-coder-theme.png",
   "engines": {
@@ -24,10 +24,10 @@
     "365",
     "code theme",
     "dheeraj kumar rao theme"
-],
+  ],
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/rao123dk/365.6-Coder-theme.git"
+    "type": "git",
+    "url": "https://github.com/rao123dk/365.6-Coder-theme.git"
   },
   "contributes": {
     "themes": [

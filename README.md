@@ -34,6 +34,16 @@
 
 <br>
 
+# Theme for VS Code
+
+![screenshot](assets/main.png)
+<br>
+<hr />
+![screenshot2](assets/nousevariable.png)
+<br>
+<hr />
+![screenshot3](assets/unsavedFiles.png)
+
 ## Author
 
 [Dheeraj Kumar Rao](https://github.com/rao123dk)

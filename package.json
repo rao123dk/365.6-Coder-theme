@@ -2,7 +2,7 @@
   "name": "365-6--coder--theme",
   "displayName": "365.6 Coder theme",
   "description": "365.6 Coder theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "dheeraj-kumar-rao",
   "icon": "assets/3656-coder-theme.png",
   "engines": {
@@ -32,7 +32,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "R.R.R coder theme",
+        "label": "365.6 Coder theme",
         "uiTheme": "vs-dark",
         "path": "./themes/365.6-Coder-theme.json"
       }

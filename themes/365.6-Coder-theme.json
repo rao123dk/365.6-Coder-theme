@@ -1,5 +1,5 @@
 {
-	"name": "R.R.R coder theme",
+	"name": "365.6 coder theme",
 	"colors": {
 		"editor.background": "#02011f",
 		"editor.foreground": "#0b6e6e",
@@ -8,7 +8,6 @@
 		"editor.findMatchHighlightBackground": "#5966cc93",
 		"editor.findMatchHighlightBorder": "#f40752",
 		"editor.lineHighlightBackground": "#d115c1",
-		//"editor.selectionBorder": "#ff0000",
 		"editor.selectionBackground": "#d0f30730",
 		"editor.selectionHighlightBackground": "#5966cc6b",
 		"editor.wordHighlightTextBorder" :"#ff0000",
@@ -115,7 +114,7 @@
 
 		"breadcrumb.foreground":"#6e6e6e",
 		"breadcrumb.activeSelectionForeground":"#ff0080",
-		"breadcrumbPicker.background":"#ff00f2",
+		"breadcrumbPicker.background":"#ff00f2"
 
 	},	
 	"tokenColors": [
